@@ -112,7 +112,7 @@ Yes it does. Just use the `AsyncTargetWrapper` that is built into NLog.
 NLog is a fast and modern logging framework with great support for all types of applications.
 
 ## How can I support this?
-You can help me out on my [Patreon](https://patreon.com) or get involved.
+You can help me out on my [Patreon](https://www.patreon.com/itniels) or get involved with the project.
 
 ## Can I use this commercially?
 Absolutely! 100% free and opensource
